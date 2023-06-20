@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+
+
+
+
+</head>
+<body>
+
+
+<table border="1px" bgcolor=#FFE485"
+width="600px"> <cell padding="5px" cell spacing="5px">
+<tr>
+<th>Student ID     </td>
+<th>Student Name    </td>
+<th>Email Address  </td>
+<th>concentration </td>
+<th>profile picture
+<tr>
+<td> M23W0205</td>
+<td>vishaka</td>
+<td>vishaka1995@gmail.com </td>
+<td>Web development system</td>
+<td> <img
+src="https://www.w3schools.com/howto/img_avatar2.png"
+width=100px" </td>
+</tr>
+
+<table border="1px" bgcolor="#9ACD32" cellpadding="10" cellspacing="0" width="600px">>
+<tr>
+<th>Schedule</th>
+<th>9am</th>
+<th>10am</th>
+<th>11am</th>
+<th>12am</th>
+
+<tr>
+<tr>
+
+<th>Monday</th>
+<td colspan="2">English</td>
+<td>Math</td>
+<td rowspan="2">Art</td>
+</tr>
+<tr>
+
+<th>Tuesday</th>
+<td colspan="3">Technology</td>
+</tr>
+</table>
+
+<iframe width="360px" height="215px" 
+src="https://www.youtube.com/embed/LzCK2y-XudU" title="YouTube 
+video player" frameborder="0" allowfullscreen></iframe>
+<h1></h1>
+<p></p>
+
+<iframe width="360px" height="215px"
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.3876912310243!2d135.7400415749748!3d35.022029865905346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600107c354c93b51%3A0x220ad933504f60f6!2sSembon%20Demizu!5e0!3m2!1sen!2sjp!4v1687240183410!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
+
+<h1>A video of Nepal Tourism</h2>
+<video width="400px" height="300px" autoplay muted controls loop>
+<source src="videos/visit_nepal.mp4">
+</video<h1>A video of Nepal Tourism</h2>
+<video width="400px" height="300px" autoplay muted controls loop>
+<source src="videos/visit_nepal.mp4">
+</video>
+
+
+
+</body>
+</html>
